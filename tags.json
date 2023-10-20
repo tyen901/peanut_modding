@@ -1,0 +1,245 @@
+{
+    "CUP\\weapons\\cup_weapons_west_attachments\\CompM2\\data\\aimpoint_glass_ca.png": [
+        "copy"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\CompM4\\data\\optics_ca.png": [
+        "copy"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\CompM4\\data\\optics_flat_ca.png": [
+        "copy"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\data\\glass_ca.png": [
+        "copy"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\Elcan_SpecterDR\\data\\lens_ca.png": [
+        "copy"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\Elcan_SpecterDR\\data\\rx_lens2_ca.png": [
+        "copy"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\Eotech_HWS\\data\\eotechholo_ca.png": [
+        "copy"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\LeupoldMk4_CQT\\data\\optics_flat_red_ca.png": [
+        "copy"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\Magnifier\\data\\glass_ca.png": [
+        "copy"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\Mepro21\\Data\\mepro21_coll_triangle_ca.png": [
+        "copy"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\Mepro21\\Data\\mepro_reticule_bseye_ca.png": [
+        "copy"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\SUSAT\\data\\sight_ca.png": [
+        "copy"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\TrijiconRx01\\data\\rx_lens2_ca.png": [
+        "copy"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\TrijiconRx01\\data\\rx_lens_ca.png": [
+        "copy"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\Zeiss_ZPoint\\data\\optics_ca.png": [
+        "copy"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\Zeiss_ZPoint\\data\\optics_flat_ca.png": [
+        "copy"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\acog_generic\\data\\ta31_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\ACOG_TA31\\data\\fiberopt_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\Aimpoint_5000\\data\\aimpointlens_ca.png": [
+        "copy"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\Aimpoint_Micro\\data\\micro_co1.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\Aimpoint_Micro\\data\\ret_m68.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\AN_PAS_13c1\\data\\optics_bg_blurred_round_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\AN_PAS_13c1\\data\\optics_bg_square_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\AN_PAS_13c1\\data\\plast_dt.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\AN_PAS_13c1\\data\\twis_m16_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\AN_PAS_13c2\\data\\optics_bg_blurred_round_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\AN_PAS_13c2\\data\\optics_bg_square_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\AN_PAS_13c2\\data\\twis_mil_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\AN_PVS_10\\data\\plast_dt.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\BAF_Elcan\\data\\collimator_cross_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\BAF_Elcan\\data\\elcan_crosshair_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\BAF_Elcan\\data\\elcan_lens_ca.png": [
+        "copy"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\BAF_Elcan\\data\\newtons_rings_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\BAF_Elcan\\data\\optics_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\BAF_Elcan\\data\\red dot_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\CompM2\\data\\aimpoint.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\CompM2\\data\\aimpoint_dot_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\CompM2\\data\\concrete_rough_dt.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\acog_generic\\data\\default_ti_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\CompM4\\data\\aimpoint_dot_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\CompM4\\data\\default_ti_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\CompM4\\data\\plast_dt.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\CWS\\data\\cws_optic_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\CWS\\data\\glass_ti_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\CZ_M3X\\data\\evo_ti_ca.png": [
+        "copy"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\Elcan_M145\\data\\plast_dt.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\Elcan_M145\\data\\scope_view_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\Elcan_SpecterDR\\data\\collimdot_tridot_red_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\Eotech_Holo\\data\\eot_lens_ca.png": [
+        "copy"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\Flashhider\\data\\flashhider_ti_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\LeupoldMk4\\data\\mildot10_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\LeupoldMk4\\data\\mildot10_x10_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\LeupoldMk4\\data\\mildot10_x20_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\LeupoldMk4\\data\\scope_bodyNight_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\LeupoldMk4_CQT\\data\\mk4cqt_ret_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\LeupoldMk4_MRT\\data\\tac_mill_3x_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\LeupoldMk4_MRT\\data\\tac_mill_8x_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\Mepro21\\Data\\mepro21_coll_moa_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\Mepro21\\Data\\mepro21_coll_openx_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\Mepro21\\Data\\mepro_lenses_green_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\Mepro21\\Data\\mepro_lenses_orange_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\Mepro21\\Data\\uipicture_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\QDSS-NT4\\data\\qdssnt4_ti_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\SB_11_4x20_PM\\data\\shortdot_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\SB_3_12x50_PMII\\data\\default_ti_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\SB_3_12x50_PMII\\data\\l115a1_crosshair_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\SB_3_12x50_PMII\\data\\puskohled_lh.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\SB_3_12x50_PMII\\data\\vojak_02_dhled_osa00.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\SUSAT\\data\\glass_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\SUSAT\\data\\sight_emissive_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\TA648_308\\data\\ACOG_coyo_co.bckp.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\TA648_308\\data\\ACOG_od_co.bckp.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\TrijiconRx01\\data\\colimdot_amber_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\TrijiconRx01\\data\\collimdot_dot_yellow_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\TrijiconRx01\\data\\rx01_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\ZD-Dot\\data\\cz_805_details_ti_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\ZD-MRad\\data\\mrad_ti_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\Zeiss_ZPoint\\data\\aimpoint_dot_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\Zeiss_ZPoint\\data\\default_ti_ca.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\Zeiss_ZPoint\\data\\plast_dt.png": [
+        "skip"
+    ],
+    "CUP\\weapons\\cup_weapons_west_attachments\\Zeiss_ZPoint\\data\\Zeiss_Scopes_1_ti_ca.png": [
+        "skip"
+    ]
+}
