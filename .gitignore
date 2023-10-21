@@ -4,3 +4,5 @@ __pycache__/
 raw/
 temp/
 extracted/
+project.ntp.lock
+project.ntp.~1~
