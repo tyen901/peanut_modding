@@ -1,6 +1,6 @@
 import os
 import shutil
-from conversion_utils import convert_psd_to_png, convert_png_to_paa
+from conversion_utils import convert_png_to_paa
 
 MAKE_PBO_PATH = "C:\\Program Files (x86)\\Mikero\\DePboTools\\bin\\MakePbo.exe"
 
@@ -68,10 +68,9 @@ if __name__ == "__main__":
     # Define directories
     SOURCE_DIR = os.path.join(base_dir, "raw")
     PATCHED_DIR = os.path.join(base_dir, "patched")
-    EDITED_DIR = os.path.join(base_dir, "edits")
+    EDITED_DIR = os.path.join(base_dir, "edited")
     
     TEMP_DIR = os.path.join(base_dir, "temp")
-    TEMP_PNG_DIR = os.path.join(TEMP_DIR, "png")
     TEMP_PAA_DIR = os.path.join(TEMP_DIR, "paa")
 
     if os.path.exists(TEMP_DIR):
@@ -81,8 +80,7 @@ if __name__ == "__main__":
         shutil.rmtree(PATCHED_DIR)
 
     # # Convert files
-    convert_psd_to_png(EDITED_DIR, TEMP_PNG_DIR)
-    convert_png_to_paa(TEMP_PNG_DIR, TEMP_PAA_DIR)
+    convert_png_to_paa(EDITED_DIR, TEMP_PAA_DIR)
     
     # Sync folders
     sync_folders(SOURCE_DIR, PATCHED_DIR)

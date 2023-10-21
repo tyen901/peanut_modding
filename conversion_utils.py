@@ -1,7 +1,6 @@
 import os
 import subprocess
 import shutil
-from wand.image import Image
 from concurrent.futures import ThreadPoolExecutor
 
 def _convert_single_file_paa_to_png(full_path, output_file):
@@ -35,18 +34,6 @@ def convert_paa_to_png(input_dir, output_dir, max_threads=10):
     with ThreadPoolExecutor(max_threads) as executor:
         for task in tasks:
             executor.submit(_convert_single_file_paa_to_png, task[0], task[1])
-
-def _convert_single_file_psd_to_png(full_path, output_file):
-    """Convert a single .psd file to .png."""
-
-    # make sure path exists
-    if not os.path.exists(os.path.dirname(output_file)):
-        os.makedirs(os.path.dirname(output_file))
-
-    # Convert a large PSD to small PNG thumbnail
-    myImage = Image(filename=full_path + "[0]")
-    myImage.format = "png"
-    myImage.save(filename=output_file)
 
 def convert_psd_to_png(input_dir, output_dir, max_threads=10):
     """Batch convert .png files to .paa using multiple threads."""
